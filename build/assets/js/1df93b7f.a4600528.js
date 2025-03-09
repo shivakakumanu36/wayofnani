@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwayofnani=self.webpackChunkwayofnani||[]).push([[583],{6107:(n,a,e)=>{e.r(a),e.d(a,{default:()=>u});var r=e(6347),t=e(4848);function u(){return(0,t.jsx)(r.rd,{to:"/intro"})}}}]);
