@@ -8,7 +8,7 @@ Let's discover **About my self**.
 
 ## Getting Started
 
-Get started by **changing a new way of life**.
+Lets **changing a new way of life**.
 
 Or **researching on myself** with **[wayofnani.com](https://wayofnani.com)**.
 
