@@ -14,7 +14,7 @@ Or **researching on myself** with **[wayofnani.com](https://wayofnani.com)**.
 
 ### What you'll need
 
-- Food:
+- Macro Nutrients:
   - Carbs, protein, fat, fibre.
 
 ## Getting a new way of life
