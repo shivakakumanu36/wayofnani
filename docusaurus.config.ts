@@ -39,7 +39,6 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
     navbar: {
       items: [
@@ -55,7 +54,13 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  } satisfies Preset.ThemeConfig,
+    colorMode: {
+      // Set the default mode to dark
+      defaultMode: 'dark',
+      // Optional: disable the mode switcher if you don't want users to toggle
+      disableSwitch: false,
+    },
+  }
 };
 
 export default config;
